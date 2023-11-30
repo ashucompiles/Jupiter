@@ -60,6 +60,8 @@ class Board {
         return true;
     }
 
+    //This is my second commit
+
     public void makeMove(String move) {
         // Implement logic to update the chessboard after a move
         // For simplicity, assume all moves are valid in this example
